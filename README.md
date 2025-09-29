@@ -4,6 +4,7 @@ A full-stack financial trading mini application built with React, Node.js, Expre
 This project demonstrates secure authentication, product listing, portfolio tracking, and simple financial transactions.
 
 🚀 Features
+
 🔑 Authentication & KYC
 
 User sign-up with name, email, password, PAN number and optional ID image (dummy upload).
